@@ -7,6 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube]
+enabled = false
 build-mode = "both"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -14,6 +15,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
+enabled = false
 build-mode = "both"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -31,10 +33,10 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Music-Extended]
 enabled = true
 included-patches = "'MaterialYou'"
-excluded-patches = "'GmsCore support'"
 app-name = "Music"
 patches-source = "anddea/revanced-patches"
 cli-source = "inotia00/revanced-cli"
+integrations-source = "revanced/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 arch = "both"
@@ -44,9 +46,9 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 [YouTube-Extended]
 enabled = true
 included-patches = "'MaterialYou'"
-excluded-patches = "'GmsCore support'"
 app-name = "YouTube"
 patches-source = "anddea/revanced-patches"
+integrations-source = "revanced/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
