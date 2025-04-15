@@ -1,6 +1,6 @@
 {
-  "version": "v7.24.0.746524260 (patches: 5.19.1)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/GurbanA/RevancedModule/releases/download/9/googlephotos-revanced-magisk-v7.24.0.746524260-arm-v7a.zip",
+  "version": "v7.24.0.747539053 (patches: 5.20.0)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/GurbanA/RevancedModule/releases/download/10/googlephotos-revanced-magisk-v7.24.0.747539053-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/GurbanA/RevancedModule/update/build.md"
 }
