@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches 3.15.0)",
-  "versionCode": 54,
-  "zipUrl": "https://github.com/GurbanA/RevancedModule/releases/download/54/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches 3.16.0)",
+  "versionCode": 57,
+  "zipUrl": "https://github.com/GurbanA/RevancedModule/releases/download/57/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/GurbanA/RevancedModule/update/build.md"
 }
