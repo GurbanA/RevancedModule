@@ -1,5 +1,3 @@
-GooglePhotos (arm64-v8a): 7.67.0.882706237  
-GooglePhotos (arm-v7a): 7.67.0.882706237  
 Music-Morphe (arm64-v8a): 8.44.54  
 Music-Morphe (arm-v7a): 8.44.54  
 Reddit-Morphe: 2026.04.0  
@@ -11,9 +9,8 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
   
 CLI: MorpheApp/morphe-cli-1.5.0-all.jar  
-Patches: MorpheApp/patches-1.18.0.mpp  
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.18.0)
+Patches: MorpheApp/patches-1.19.0.mpp  
+[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.19.0)  
 
-CLI: ReVanced/revanced-cli-6.0.0-all.jar  
-Patches: ReVanced/patches-6.0.1.rvp  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v6.0.1)  
+Skipped:  
+Patches: ReVanced/patches-6.0.1.rvp    
